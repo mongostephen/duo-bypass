@@ -1,2 +1,2 @@
-pyotp
 requests
+pyqrcode
